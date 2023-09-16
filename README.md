@@ -31,3 +31,5 @@ Veritabanında verileri alıp ekrana yansıtan ve temel sepete işlevine sahip o
 
 - - bu işlemi yaparken elemanın miktarını unutma
 - - ürünü sepetten kaldırınca toplam fiyattan eksilt# E-TICARET2
+ 
+  - https://github.com/omuroncul/E-TICARET2/assets/129686552/8cf2a400-24bf-4810-9640-3cee8b06f549
